@@ -1,0 +1,13 @@
+L, onions,ham,chicken
+S, spinach,cheese
+M, chicken,cheese,sausages,mushrooms,spinach
+L, cheese,chicken
+L, chicken,cheese,ham,sausages
+M, sausage,cheese,ham
+S, cheese,sausage
+S, chicken,mushrooms,spinach
+M, olives,onions,spinach
+L, cheese,ham,sausage
+L, sausage,mushrooms
+M, cheese,sausage,onions
+S, onion,olives,mushrooms
